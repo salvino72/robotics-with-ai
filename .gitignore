@@ -1,0 +1,49 @@
+# File di sistema e temporanei
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.log
+
+# AI Agent Specific (Antigravity/Gemini internal files)
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+.a-p/
+.a-t/
+.a-s/
+.a-l/
+
+# Arduino / IDE
+build/
+bin/
+*.o
+*.a
+*.so
+*.obj
+*.elf
+*.hex
+*.eep
+*.lst
+.vscode/
+.idea/
+
+# Cartelle private e bozze (NON pubblicate su GitHub)
+# Puoi mettere qui file sensibili, password o slide non ancora pronte
+private/
+drafts/
+temp/
+secret.txt
+*.local
+
+# Archivio e Note personali
+notes/
+todo.md
+archive/
+
+# Documentazione generata
+*.pdf
+# Se vuoi escludere PDF specifici ma non tutti, commenta la riga sopra
+# e usa regole più precise.
