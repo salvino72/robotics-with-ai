@@ -47,3 +47,5 @@ archive/
 *.pdf
 # Se vuoi escludere PDF specifici ma non tutti, commenta la riga sopra
 # e usa regole più precise.
+
+*.code-workspace

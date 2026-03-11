@@ -16,6 +16,7 @@ Invece di seguire un calendario rigido, il corso si snoda attraverso cinque pila
 *   **Assemblaggio**: Primi passi nel montaggio e nel collegamento hardware-computer.
 
 ### 2. Elettronica di Base e Circuiti 💡
+*   **[Lezione 1: Fondamenti di Elettronica e Codice](projects/lezione_1/README.md)**: Guida pratica dal Blink al controllo PWM. ([Scarica Slide PDF](docs/L1-slide-Arduino_Logic.pdf))
 *   **Componentistica**: Studio di LED, resistenze, diodi e circuiti fondamentali.
 *   **Logica del Circuito**: Creazione di sistemi di illuminazione controllata e gestione della corrente.
 *   **Interazione Fisica**: Capire come l'energia fluisce attraverso il codice per generare output visivi.
