@@ -11,12 +11,13 @@ Questo spazio è dedicato agli studenti degli istituti superiori e raccoglie tut
 Invece di seguire un calendario rigido, il corso si snoda attraverso cinque pilastri fondamentali che integrano teoria e pratica. Ogni tema verrà approfondito con sessioni "hands-on".
 
 ### 1. Fondamenti e Prototipazione 🛠️
+*   **[Lezione 1: Fondamenti e Prototipazione](projects/lezione_1/README.md)**: Concetti introduttivi e anatomia di un robot. ([Scarica Slide PDF](docs/L1-AI_Robotics_Prototyping.pdf))
 *   **Introduzione alla Robotica Educativa**: Esplorazione delle applicazioni pratiche nel mondo moderno.
 *   **Ecosistema Arduino**: Conoscenza approfondita del microcontrollore, della breadboard e dei componenti base.
 *   **Assemblaggio**: Primi passi nel montaggio e nel collegamento hardware-computer.
 
 ### 2. Elettronica di Base e Circuiti 💡
-*   **[Lezione 1: Fondamenti di Elettronica e Codice](projects/lezione_1/README.md)**: Guida pratica dal Blink al controllo PWM. ([Scarica Slide PDF](docs/L1-slide-Arduino_Logic.pdf))
+*   **[Lezione 2: Fondamenti di Elettronica e Codice](projects/lezione_2/README.md)**: Guida pratica dal Blink al controllo PWM. ([Scarica Slide PDF](docs/L2-slide-Arduino_Logic.pdf))
 *   **Componentistica**: Studio di LED, resistenze, diodi e circuiti fondamentali.
 *   **Logica del Circuito**: Creazione di sistemi di illuminazione controllata e gestione della corrente.
 *   **Interazione Fisica**: Capire come l'energia fluisce attraverso il codice per generare output visivi.
