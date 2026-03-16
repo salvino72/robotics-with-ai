@@ -23,6 +23,7 @@ Invece di seguire un calendario rigido, il corso si snoda attraverso cinque pila
 *   **Interazione Fisica**: Capire come l'energia fluisce attraverso il codice per generare output visivi.
 
 ### 3. Sensori e Interazione con l'Ambiente 🌡️
+*   **[Lezione 3: Sensori e Interazione con l'Ambiente](projects/lezione_3/README.md)**: Percezione del mondo e feedback in tempo reale. ([Scarica Slide PDF](docs/L3-slide-Digital_Nervous_System.pdf))
 *   **Percezione del Robot**: Utilizzo di sensori di luce, temperatura e umidità per raccogliere dati dal mondo esterno.
 *   **Elaborazione Dati**: Programmare il robot per prendere "decisioni" basate sui parametri rilevati (es. accendere luci in base alla luminosità).
 *   **Feedback Real-time**: Monitoraggio costante delle variabili ambientali.

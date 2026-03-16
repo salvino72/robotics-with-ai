@@ -1,4 +1,4 @@
-# File di sistema e temporanei
+# File di sistema e temporanei.
 .DS_Store
 Thumbs.db
 *.bak
@@ -42,6 +42,4 @@ secret.txt
 notes/
 todo.md
 archive/
-
-
 *.code-workspace
