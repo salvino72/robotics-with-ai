@@ -62,9 +62,16 @@ Il materiale è organizzato nelle seguenti cartelle:
 
 | Progetto | Descrizione | Stato |
 | :--- | :--- | :--- |
-| **Project 01** | Introduzione ai sensori e attuatori | 🏗️ In corso |
-| **Project 02** | Visione Artificiale con OpenCV | 📅 Pianificato |
-| **Project 03** | IA e Navigazione Autonoma | 📅 Pianificato |
+| **Project 01** | [Fondamenti e Prototipazione](projects/lezione_1/README.md) | ✅ Completato |
+| **Project 02** | [Elettronica di Base e Codice](projects/lezione_2/README.md) | ✅ Completato |
+| **Project 03** | [Sensori e Interazione Ambientale](projects/lezione_3/README.md) | 🏗️ In corso |
+| **Project 04** | Robotica Mobile e Attuatori | 📅 Pianificato |
+| **Project 05** | Sviluppo Avanzato e AI | 📅 Pianificato |
+| **Project 06** | Da scoprire... | 🔒 Prossimamente |
+| **Project 07** | Da scoprire... | 🔒 Prossimamente |
+| **Project 08** | Da scoprire... | 🔒 Prossimamente |
+| **Project 09** | Da scoprire... | 🔒 Prossimamente |
+| **Project 10** | Da scoprire... | 🔒 Prossimamente |
 
 ---
 
