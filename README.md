@@ -69,8 +69,8 @@ Il materiale è organizzato nelle seguenti cartelle:
 | :--- | :--- | :--- |
 | **Project 01** | [Fondamenti e Prototipazione](projects/lezione_1/README.md) | ✅ Completato |
 | **Project 02** | [Elettronica di Base e Codice](projects/lezione_2/README.md) | ✅ Completato |
-| **Project 03** | [Sensori e Interazione Ambientale](projects/lezione_3/README.md) | 🏗️ In corso |
-| **Project 04** | [Droni e Volo APR](projects/lezione_4/README.md) | ✅ Completato |
+| **Project 03** | [Sensori e Interazione Ambientale](projects/lezione_3/README.md) | ✅ Completato |
+| **Project 04** | [Droni e Volo APR](projects/lezione_4/README.md) | 🏗️ In corso |
 | **Project 05** | Robotica Mobile e Attuatori | 📅 Pianificato |
 | **Project 06** | Sviluppo Avanzato e AI | 📅 Pianificato |
 | **Project 07** | Da scoprire... | 🔒 Prossimamente |
