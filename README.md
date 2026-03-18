@@ -28,12 +28,17 @@ Invece di seguire un calendario rigido, il corso si snoda attraverso cinque pila
 *   **Elaborazione Dati**: Programmare il robot per prendere "decisioni" basate sui parametri rilevati (es. accendere luci in base alla luminosità).
 *   **Feedback Real-time**: Monitoraggio costante delle variabili ambientali.
 
-### 4. Robotica Mobile e Attuatori ⚙️
+### 4. Droni e Volo APR 🚁
+*   **[Lezione 4: Introduzione ai Droni](projects/lezione_4/README.md)**: Panoramica sui droni, modelli, fondamenti di volo e regole per piloti APR. ([Scarica Slide Guida Drone APR](docs/L4_1_slide_Guida_Drone_APR.pdf) \| [Scarica Slide Drone Pilot Playbook](docs/L4_2_slide_Drone_Pilot_Playbook.pdf))
+*   **Fondamenti di Volo**: Principi base e introduzione al pilotaggio.
+*   **Sicurezza e Normative**: Le regole essenziali per volare in sicurezza.
+
+### 5. Robotica Mobile e Attuatori ⚙️
 *   **Movimento**: Introduzione a motori e servomotori per trasformare il codice in azione meccanica.
 *   **Design di Robot Mobili**: Assemblaggio di sistemi robotici in grado di muoversi nello spazio.
 *   **Cinematica Base**: Programmare percorsi, curve e controllo di velocità.
 
-### 5. Sviluppo Avanzato e AI 🤖🧠
+### 6. Sviluppo Avanzato e AI 🤖🧠
 *   **Uso di AI Assistita**: Utilizzo di modelli di linguaggio per generare e ottimizzare codice in C/C++ per funzioni complesse.
 *   **Passaggio dai Blocchi al Codice**: Transizione graduale dalla programmazione visuale (Scratch) al linguaggio testuale professionale.
 *   **Project Work**: Realizzazione di progetti liberi (stazioni meteo, robot line-follower) nati dalle idee degli studenti.
@@ -65,9 +70,9 @@ Il materiale è organizzato nelle seguenti cartelle:
 | **Project 01** | [Fondamenti e Prototipazione](projects/lezione_1/README.md) | ✅ Completato |
 | **Project 02** | [Elettronica di Base e Codice](projects/lezione_2/README.md) | ✅ Completato |
 | **Project 03** | [Sensori e Interazione Ambientale](projects/lezione_3/README.md) | 🏗️ In corso |
-| **Project 04** | Robotica Mobile e Attuatori | 📅 Pianificato |
-| **Project 05** | Sviluppo Avanzato e AI | 📅 Pianificato |
-| **Project 06** | Da scoprire... | 🔒 Prossimamente |
+| **Project 04** | [Droni e Volo APR](projects/lezione_4/README.md) | ✅ Completato |
+| **Project 05** | Robotica Mobile e Attuatori | 📅 Pianificato |
+| **Project 06** | Sviluppo Avanzato e AI | 📅 Pianificato |
 | **Project 07** | Da scoprire... | 🔒 Prossimamente |
 | **Project 08** | Da scoprire... | 🔒 Prossimamente |
 | **Project 09** | Da scoprire... | 🔒 Prossimamente |
