@@ -39,10 +39,26 @@ Invece di seguire un calendario rigido, il corso si snoda attraverso cinque pila
 *   **Design di Robot Mobili**: Assemblaggio di sistemi robotici in grado di muoversi nello spazio.
 *   **Cinematica Base**: Programmare percorsi, curve e controllo di velocità.
 
-### 6. Sviluppo Avanzato e AI 🤖🧠
-*   **Uso di AI Assistita**: Utilizzo di modelli di linguaggio per generare e ottimizzare codice in C/C++ per funzioni complesse.
-*   **Passaggio dai Blocchi al Codice**: Transizione graduale dalla programmazione visuale (Scratch) al linguaggio testuale professionale.
-*   **Project Work**: Realizzazione di progetti liberi (stazioni meteo, robot line-follower) nati dalle idee degli studenti.
+### 6. Sviluppo Assistito da IA (LLM) 🤖🧠
+*   **Uso di AI Assistita**: Utilizzo di modelli di linguaggio (LLM) per generare, ottimizzare e documentare codice in C/C++.
+*   **Prompt Engineering per Robotica**: Scrivere istruzioni efficaci per ottenere algoritmi di controllo complessi.
+*   **Debugging Intelligente**: Analizzare errori di compilazione e logica tramite il supporto di assistenti AI.
+
+### 7. Robotica Sociale e Interazione 🎭
+*   **Feedback Visivo e Sonoro**: Utilizzo di display OLED, moduli vocali e buzzer per simulare emozioni e stati del robot.
+*   **Interazione Uomo-Macchina (HMI)**: Sensori di presenza e gesti per rendere il robot reattivo alle persone.
+
+### 8. IoT e Robotica Connessa 🌐
+*   **Controllo Remoto**: Gestione del robot tramite smartphone o web dashboard via Wi-Fi/Bluetooth.
+*   **Monitoraggio Cloud**: Caricare i dati dei sensori su piattaforme online per l'analisi a distanza.
+
+### 9. Missioni Avanzate con i Droni 🚁
+*   **Pianificazione Volo**: Introduzione alle rotte automatiche (Waypoints) e al volo assistito.
+*   **Droni Professionali**: Gestione avanzata della telecamera e introduzione alla normativa per operazioni specializzate.
+
+### 10. Gran Finale e Project Work 🏆
+*   **Integrazione Totale**: Sviluppo di un progetto libero che integri IA, sensori, mobilità e connettività.
+*   **Demo Day**: Presentazione e test sul campo del prototipo intelligente realizzato dagli studenti.
 
 ---
 
@@ -73,11 +89,11 @@ Il materiale è organizzato nelle seguenti cartelle:
 | **Project 03** | [Sensori e Interazione Ambientale](projects/lezione_3/README.md) | ✅ Completato |
 | **Project 04** | [Droni e Volo APR](projects/lezione_4/README.md) | ✅ Completato |
 | **Project 05** | [Robotica Mobile e Attuatori](projects/lezione_5/README.md) | ✅ Completato |
-| **Project 06** | Sviluppo Avanzato e AI | 📅 Pianificato |
-| **Project 07** | Da scoprire... | 🔒 Prossimamente |
-| **Project 08** | Da scoprire... | 🔒 Prossimamente |
-| **Project 09** | Da scoprire... | 🔒 Prossimamente |
-| **Project 10** | Da scoprire... | 🔒 Prossimamente |
+| **Project 06** | Sviluppo Assistito da IA (LLM) | 📅 Pianificato |
+| **Project 07** | Robotica Sociale e Interazione | 🔒 Prossimamente |
+| **Project 08** | IoT e Robotica Connessa | 🔒 Prossimamente |
+| **Project 09** | Missioni Avanzate con i Droni | 🔒 Prossimamente |
+| **Project 10** | Gran Finale e Project Work | 🔒 Prossimamente |
 
 ---
 
