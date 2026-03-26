@@ -27,5 +27,12 @@ Questa lezione è puramente teorica e non prevede esercizi di programmazione o d
     *   L'importanza della prevenzione dei rischi e del mantenimento della sicurezza per sé e per gli altri.
 
 ---
+
+## 🗺️ Navigazione
+*   [Torna alla Home](../../README.md)
+*   [Lezione Precedente: Sensori e Interazione](../lezione_3/README.md)
+*   [Prossima Lezione: Robotica Mobile e Attuatori](../lezione_5/README.md)
+
+---
  
 *N.B. Consulta i due file PDF allegati per approfondire i concetti e prepararti alle discussioni in classe!*

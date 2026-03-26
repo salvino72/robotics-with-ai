@@ -34,6 +34,7 @@ Invece di seguire un calendario rigido, il corso si snoda attraverso cinque pila
 *   **Sicurezza e Normative**: Le regole essenziali per volare in sicurezza.
 
 ### 5. Robotica Mobile e Attuatori ⚙️
+*   **[Lezione 5: Robotica Mobile e Attuatori](projects/lezione_5/README.md)**: Movimento, trazione differenziale e controllo motori. ([Scarica Slide PDF](docs/L5_slide_Robotic_Motion_Blueprint.pdf))
 *   **Movimento**: Introduzione a motori e servomotori per trasformare il codice in azione meccanica.
 *   **Design di Robot Mobili**: Assemblaggio di sistemi robotici in grado di muoversi nello spazio.
 *   **Cinematica Base**: Programmare percorsi, curve e controllo di velocità.
@@ -70,8 +71,8 @@ Il materiale è organizzato nelle seguenti cartelle:
 | **Project 01** | [Fondamenti e Prototipazione](projects/lezione_1/README.md) | ✅ Completato |
 | **Project 02** | [Elettronica di Base e Codice](projects/lezione_2/README.md) | ✅ Completato |
 | **Project 03** | [Sensori e Interazione Ambientale](projects/lezione_3/README.md) | ✅ Completato |
-| **Project 04** | [Droni e Volo APR](projects/lezione_4/README.md) | 🏗️ In corso |
-| **Project 05** | Robotica Mobile e Attuatori | 📅 Pianificato |
+| **Project 04** | [Droni e Volo APR](projects/lezione_4/README.md) | ✅ Completato |
+| **Project 05** | [Robotica Mobile e Attuatori](projects/lezione_5/README.md) | ✅ Completato |
 | **Project 06** | Sviluppo Avanzato e AI | 📅 Pianificato |
 | **Project 07** | Da scoprire... | 🔒 Prossimamente |
 | **Project 08** | Da scoprire... | 🔒 Prossimamente |
