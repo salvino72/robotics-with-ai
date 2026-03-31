@@ -164,7 +164,7 @@ Sì, esistono servomotori a **rotazione continua** (es. FS90R) che si controllan
 ## 🗺️ Navigazione
 *   [Torna alla Home](../../README.md)
 *   [Lezione Precedente: Droni e Volo APR](../lezione_4/README.md)
-*   [Prossima Lezione: Sviluppo Avanzato e AI](../lezione_6/README.md)
+*   [Prossima Lezione: Sviluppo Assistito da IA (LLM)](../lezione_6/README.md)
 
 ---
 
