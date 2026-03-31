@@ -117,9 +117,11 @@ Al momento **Claude 3.5 Sonnet** e **GPT-4o/o1** sono considerati i migliori per
 
 ---
 
-## 🚀 Progetto Speciale: ELEGOO Smart Car V4.0 (Fase 1)
+## 🚀 [Progetto Speciale: ELEGOO Smart Car V4.0 (Fase 1)](../special_project/README.md)
 
 In questa prima fase del progetto speciale, inizieremo l'assemblaggio del kit **ELEGOO Smart Robot Car V4.0**. L'obiettivo di oggi è completare la parte meccanica e verificare che i motori rispondano correttamente ai comandi base.
+
+> 💡 **Info Progetto**: Per visualizzare tutte le fasi del progetto (6, 7 e 8) e le risorse complete, visita la **[[Pagina Centrale del Progetto Speciale]](../special_project/README.md)**.
 
 ![Kit Completo ELEGOO V4.0](./image-elegoo/81Puo+XA09L._AC_SL1500_.jpg)
 

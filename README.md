@@ -62,13 +62,13 @@ Invece di seguire un calendario rigido, il corso si snoda attraverso cinque pila
 
 ---
 
-## 🚀 Progetto Speciale: Kit ELEGOO Smart Car V4.0
+## 🚀 [Progetto Speciale: Kit ELEGOO Smart Car V4.0](projects/special_project/README.md)
 
-Parallelamente alle lezioni, gli studenti costruiranno un robot basato sul kit **ELEGOO Smart Car V4.0**.
+Parallelamente alle lezioni, gli studenti costruiranno un robot basato sul kit **ELEGOO Smart Car V4.0**. 
 
-![ELEGOO Smart Car V4.0](./projects/lezione_6/image-elegoo/6192FuXiiUL._AC_SL1500_.jpg)
+[![Guarda la Pagina del Progetto Speciale](./projects/lezione_6/image-elegoo/6192FuXiiUL._AC_SL1500_.jpg)](projects/special_project/README.md)
 
-Questo progetto si sviluppa in **3 fasi chiave**:
+Questo progetto si sviluppa in **3 fasi chiave** gestite nelle Lezioni 6, 7 e 8. Per una guida completa a tutte le fasi e ai tutorial, visita la **[[Pagina Centrale del Progetto Speciale]](projects/special_project/README.md)**.
 
 1.  **Fase 1 (Lezione 6)**: Montaggio dello chassis e test dei motori.
 2.  **Fase 2 (Lezione 7)**: Navigazione intelligente (evita ostacoli e segui-linea).
