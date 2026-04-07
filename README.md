@@ -44,12 +44,14 @@ Invece di seguire un calendario rigido, il corso si snoda attraverso cinque pila
 *   **Prompt Engineering per Robotica**: Scrivere istruzioni efficaci per ottenere algoritmi di controllo complessi.
 *   **🚀 Progetto Speciale (Fase 1)**: Assemblaggio **ELEGOO Smart Car V4.0**.
 
-### 7. Robotica Sociale e Interazione 🎭
-*   **Feedback Visivo e Sonoro**: Utilizzo di display OLED e buzzer per simulare emozioni.
+### 7. [Robotica Mobile Avanzata: Progetto Speciale (Fase 2)](projects/lezione_7/README.md) 🤖
+*   **Completamento Kit**: Ultimi passaggi dell'assemblaggio meccanico e cablaggio.
+*   **Navigazione Intelligente**: Attivazione del software per [Evitamento Ostacoli](projects/lezione_7/01_Obstacle_Avoidance/01_Obstacle_Avoidance.ino) e [Segui-linea](projects/lezione_7/02_Line_Tracking/02_Line_Tracking.ino).
 *   **🚀 Progetto Speciale (Fase 2)**: Sensori Ultrasuoni e Line Tracking sulla Smart Car.
 
-### 8. IoT e Robotica Connessa 🌐
-*   **Controllo Remoto**: Gestione del robot via Wi-Fi/Bluetooth.
+### 8. [Robotica Sociale e Feedback](projects/lezione_8/README.md) 🎭
+*   **Feedback Visivo e Sonoro**: Utilizzo di display OLED e buzzer per simulare emozioni.
+*   **Interazione Uomo-Robot**: Creazione di espressioni e segnali acustici reattivi.
 *   **🚀 Progetto Speciale (Fase 3)**: Telecamera ESP32 Vision e FPV.
 
 ### 9. Missioni Avanzate con i Droni 🚁
@@ -105,9 +107,9 @@ Il materiale è organizzato nelle seguenti cartelle:
 | **Project 03** | [Sensori e Interazione Ambientale](projects/lezione_3/README.md) | ✅ Completato |
 | **Project 04** | [Droni e Volo APR](projects/lezione_4/README.md) | ✅ Completato |
 | **Project 05** | [Robotica Mobile e Attuatori](projects/lezione_5/README.md) | ✅ Completato |
-| **Project 06** | [Sviluppo Assistito da IA (LLM)](projects/lezione_6/README.md) | 🚀 **In Corso (Oggi)** |
-| **Project 07** | Robotica Sociale e [Special Project Fase 2] | 🔒 Prossimamente |
-| **Project 08** | IoT e [Special Project Fase 3] | 🔒 Prossimamente |
+| **Project 06** | [Sviluppo Assistito da IA (LLM)](projects/lezione_6/README.md) | ✅ Completato |
+| **Project 07** | [Robotica Mobile Avanzata - Fase 2](projects/lezione_7/README.md) | 🚀 **In Corso (Oggi)** |
+| **Project 08** | [Robotica Sociale e Feedback - Fase 3](projects/lezione_8/README.md) | 🔒 Prossimamente |
 | **Project 09** | Missioni Avanzate con i Droni | 🔒 Prossimamente |
 | **Project 10** | [Gran Finale e Robot Show] | 🔒 Prossimamente |
 

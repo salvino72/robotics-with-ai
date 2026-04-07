@@ -27,12 +27,12 @@ Il progetto è suddiviso in tre macro-obiettivi, integrati nelle Lezioni 6, 7 e 
 
 ### 🤖 [Fase 2: Navigazione Autonoma (Lezione 7)](../lezione_7/README.md)
 *   **Obiettivo**: Rendere il robot "intelligente".
-*   **Attività**: Implementazione algoritmi *Obstacle Avoidance* (Uso sensore ultrasuoni HC-SR04) e *Line Tracking* (Uso sensori a infrarossi).
-*   **Attrezzi**:![Obstacle Avoidance](../lezione_6/image-elegoo/817amW3aSkL._AC_SL1500_.jpg)
+*   **Attività**: Completamento montaggio kit, cablaggio sensori e implementazione algoritmi *Obstacle Avoidance* (sensore ultrasuoni HC-SR04) e *Line Tracking* (moduli infrarossi).
+*   **Hardware**: ![Obstacle Avoidance](../lezione_6/image-elegoo/817amW3aSkL._AC_SL1500_.jpg)
 
-### 📸 [Fase 3: Visione Artificiale e FPV (Lezione 8)](../lezione_8/README.md)
+### 📸 [Fase 3: Visione Artificiale e Feedback (Lezione 8)](../lezione_8/README.md)
 *   **Obiettivo**: Guida in soggettiva e interazione multimediale.
-*   **Attività**: Programmazione del modulo ESP32 Camera, streaming video WiFi su app e controllo da remoto.
+*   **Attività**: Programmazione del modulo ESP32 Camera, streaming video WiFi e integrazione di Feedback Visivo/Sonoro (OLED e Buzzer) per simulare emozioni.
 *   ![Camera ESP32](../lezione_6/image-elegoo/717KLA0VBJL._AC_SL1500_.jpg)
 
 ---
